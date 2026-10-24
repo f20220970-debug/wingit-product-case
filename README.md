@@ -23,4 +23,6 @@ for what you keep).
 - The biggest levers: visits per advisor per day (route density), visit conversion, and items bought per visit;
   the kit-personalisation PRD targets the last two directly.
 
+- **[Live prototype](https://beauty-kit-recommender.vercel.app):** the PRD built as a working app (code: [beauty-kit-recommender](https://github.com/f20220970-debug/beauty-kit-recommender)).
+
 Built from public sources (funding coverage, a national consumer survey, customer reviews); every figure is cited.
